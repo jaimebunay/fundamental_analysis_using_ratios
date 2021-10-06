@@ -5,7 +5,7 @@ Profitability ratios are financial metrics that help to measure a company's abil
 
 * *Return on Capital Employed:* Measures a company's profitability in terms of its capital. 
 
-        ROI = Operating Income / Total Assets - Current Liabilities
+        ROCE = Operating Income / Total Assets - Current Liabilities
 
 
 * *Return on Sales:* Measures how efficiently a company turns sales into profits
