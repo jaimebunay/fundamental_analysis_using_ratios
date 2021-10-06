@@ -26,6 +26,7 @@ Profitability ratios are financial metrics that help to measure a company's abil
                 Current ratio = Current Assets / Current Liabilities
 
 * *Quick Ratio:* Measures the company's ability to cover short term obligations. Unlike current ratio, quick ratio does not take inventory into cosideration as part of the current assets because, in theory, inventory can take a long time to convert into cash. 
+
                 Quick ratio = (Current Assets - Inventory) / Current Liabilities
 
 ![liquidity](Images/liquidity.png)
