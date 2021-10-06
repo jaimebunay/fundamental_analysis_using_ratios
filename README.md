@@ -1,11 +1,11 @@
 # Calculating Financial Performance Ratios
 In this repository I use simple excel formulas to calculate the performance ratios for **AAPL** and **MSFT** for the past three fiscal years. The financial statements were manually downloaded from [investing.com](https://www.investing.com/)
 ## Profitability Ratios
-Profitability ratios are financial metrics that help to measure a company's ability to generate profits, or value for shareholders. These ratios can be used to compare the historic performance of a single company, or to compare the the performance of similar companies. For further reading, refer to this [link](https://www.investopedia.com/terms/p/profitabilityratios.asp)
+Profitability ratios are financial metrics that help to measure a company's ability to generate profits, or value for shareholders. These ratios can be used to compare the historic performance of a single company, or to compare the performance of similar companies. For further reading, refer to this [link](https://www.investopedia.com/terms/p/profitabilityratios.asp)
 
 * *Return on Capital Employed:* Measures a company's profitability in terms of its capital. 
 
-        ROI = Operating Income / Total Assest - Current Liabilities
+        ROI = Operating Income / Total Assets - Current Liabilities
 
 
 * *Return on Sales:* Measures how efficiently a company turns sales into profits
@@ -14,7 +14,7 @@ Profitability ratios are financial metrics that help to measure a company's abil
 
 * *Gross Margin:* Represents the percentage of revenue the company retains after accounting for `COGS`
 
-        Gross Margin = GrossProfit / Revenue 
+        Gross Margin = Gross Profit / Revenue 
 
 ![profitability](Images/profitability.png)
 
@@ -25,7 +25,7 @@ Profitability ratios are financial metrics that help to measure a company's abil
 
                 Current ratio = Current Assets / Current Liabilities
 
-* *Quick Ratio:* Measures the company's ability to cover short term obligations. Unlike current ratio, quick ratio does not take inventory into cosideration as part of the current assets because, in theory, inventory can take a long time to convert into cash. 
+* *Quick Ratio:* Measures the company's ability to cover short term obligations. Unlike current ratio, quick ratio does not take inventory into consideration as part of the current assets because, in theory, inventory can take a long time to convert into cash. 
 
                 Quick ratio = (Current Assets - Inventory) / Current Liabilities
 
@@ -54,7 +54,7 @@ Activity ratios measures the efficiency of a company's inventory, or asset, mana
 ## Solvency Ratios
 Solvency Ratios help to evaluate how well a company's cash flow can cover its long term debts and obligations. 
 
-* *Debt-to-Equity:* Helps to measure how a company is able to fund its operations through fully owned capital resources versus debt capital
+* *Debt-to-Equity:* Helps to measure how a company can fund its operations through fully owned capital resources versus debt capital
 
                 DE = Total Liabilities / Total Shareholders' Equity
 
