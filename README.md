@@ -1,3 +1,5 @@
+# Calculating Financial Performance Ratios
+In this repository I use simple excel formulas to calculate the performance ratios for **AAPL** and **MSFT** for the past three fiscal years. The financial statements were manually downloaded from [investing.com](https://www.investing.com/)
 ## Profitability Ratios
 Profitability ratios are financial metrics that help to measure a company's ability to generate profits, or value for shareholders. These ratios can be used to compare the historic performance of a single company, or to compare the the performance of similar companies. For further reading, refer to this [link](https://www.investopedia.com/terms/p/profitabilityratios.asp)
 
